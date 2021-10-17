@@ -1,5 +1,6 @@
 body {
   background: url(photo_2021-08-09_23-55-51.jpg);
+  background-repeat: no-repeat;
   margin-left: 45%;
   margin-right: 45%;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
