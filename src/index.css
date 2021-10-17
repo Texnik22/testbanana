@@ -1,8 +1,7 @@
 body {
   background: url(bakround.jpg);
   background-repeat: no-repeat;
-  background-width: 100%;
-  background-height: 100%;
+  background-size: 100%;
   margin-left: 45%;
   margin-right: 45%;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
