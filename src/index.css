@@ -29,6 +29,15 @@ body{
 
     }
 }
+@media all and (max-width: 900px){
+
+body{
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 55%;
+
+    }
+}
 @media all and (max-width: 480px){
 
 body{
