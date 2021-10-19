@@ -41,6 +41,7 @@ body{
 @media all and (max-width: 480px){
 
 body{
+  background: url(bak2.jpg);
    margin-left: 20%;
   margin-right: 20%;
   margin-top: 75%;
